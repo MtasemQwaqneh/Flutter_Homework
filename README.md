@@ -8,7 +8,7 @@ A simple and modern login screen UI built with Flutter.
 * **Actions:** Login button, "Sign up" navigation link, and "Forgot password?" option.
 
 ## Screenshot
-![Login Screen](screenshots/login_screen.png.jpeg)
+![Login Screen](screenshots/login_screen.jpeg)
 ## Technologies
 * **Framework:** Flutter
 * **Language:** Dart
